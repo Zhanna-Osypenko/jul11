@@ -85,3 +85,7 @@ let card1 = "1234432156788765";
 let card2 = "7777432156782222";
 // console.log(card1.substr(0,4) + " **** **** " + card1.substr(-4,4));
 console.log(creditCard(card2));
+
+// ============= zhanna branch ===================
+console.log("New branch zhanna");
+
